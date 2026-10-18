@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 <!--
 **Loanderson/Loanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,6 +32,6 @@ architecture through evals, security controls and measured ROI.
 Python · Rust · TypeScript · Claude, OpenAI and Gemini APIs · Google ADK · MCP · RAG and vector search · evals and observability
 
 ### Currently
-[One line: e.g. "Looking for forward-deployed / applied AI engineering roles."]
 
-📫 [LinkedIn URL] · [email, if you want it public]
+
+📫 
