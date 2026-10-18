@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I build and deploy AI agents for real-world, regulated environments: from discovery and
+architecture through evals, security controls and measured ROI.
+
+### Featured projects
+
+| Project | What it shows |
+|---|---|
+| [**agent-harness-lab**](https://github.com/YOUR-USERNAME/agent-harness-lab) | Coding-agent harness with a Rust sandbox, failure attribution, and ablations with confidence intervals |
+| [**vertex-claims-agent**](https://github.com/YOUR-USERNAME/vertex-claims-agent) | Multi-agent Gemini/Vertex AI assistant in Portuguese: ADK, MCP server over a legacy DB, RAG, LGPD-aware tracing |
+| [**foia-assist**](https://github.com/YOUR-USERNAME/foia-assist) | Government FOIA assistant that enforces data-handling levels before any model call; runs air-gapped |
+| [**aml-agent-deployment**](https://github.com/YOUR-USERNAME/aml-agent-deployment) | End-to-end regulated deployment: discovery, SOW, eval gates with 100% escalation recall, ROI model |
+
+### What I work with
+Python · Rust · TypeScript · Claude, OpenAI and Gemini APIs · Google ADK · MCP · RAG and vector search · evals and observability
+
+### Currently
+[One line: e.g. "Looking for forward-deployed / applied AI engineering roles."]
+
+📫 [LinkedIn URL] · [email, if you want it public]
